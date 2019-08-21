@@ -1,0 +1,13 @@
+# <center> Desafío -
+## <center> Jose Gomez
+
+ <font color=green> STRING </font>
+
+__string__ : string en negrita
+_string_: string en italica
+~string~: string tachado con una linea encima
+
+<br> al final de una frase, genera un salto de linea (Cuando no se usa # para los titulos
+y se escribe normalmente, al hacer enter no crea el salto de linea, pero <br> si lo genera)
+
+

@@ -1,0 +1,13 @@
+VIDEO 1
+La probabilidad es simplemente qué tan posible es que ocurra un evento determinado.
+Cuando no estamos seguros del resultado de un evento, podemos hablar de la probabilidad de ciertos resultados: qué tan común es que ocurran. 
+Al análisis de los eventos gobernados por la probabilidad se le llama estadística.
+
+- La probabilidad de un evento solo puede ser un número entre 0 y 1
+y también puede escribirse como un porcentaje.
+
+- La probabilidad del evento A suele escribirse como P(A).
+
+- Si P(A) > P(B), el evento A tiene una mayor probabilidad de ocurrir que el evento B.
+- Si P(A) = P(B) P(A)=P(B) los eventos A y B tienen la misma probabilidad de ocurrir.
+

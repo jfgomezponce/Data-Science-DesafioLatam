@@ -1,0 +1,5 @@
+un algoritmo es una serie de pasos finitos para resolver un problema.
+para crear algoritmos disponemos de herramientas como los diagramas de flujo y pseudocodigo.
+las funciones son importantes para ordenar el codigo y evitar repetir varias veces lo mismo.
+los ciclos son clave para evitar repetir el código y hacer el programable escalable.
+un problema puede tener más de una solución

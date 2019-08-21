@@ -1,0 +1,21 @@
+Al conectarse a un navegador se hace un acuerdo 
+que se llama "hand shake". El servidor envia un "certificado" que tiene el nombre de sitio y la clave publica para descifrar los mensajes de ese servidor.
+
+Cliente - Servidor (numeros que se envian durante hand-shake)
+
+En APIs Postman reconoce si un REQUEST ssl.
+
+
+
+** HOMBRE EN EL MEDIO **
+
+Man in the middle - hacking que captura la clave publica y envia una nueva al cliente.
+
+
+
+** AUTENTICACIÓN **
+
+Muchas APIs requieren autenticación, se debe tener una clave.
+
+
+** Consiguiendo la clave de API de Oxford dictionary **
